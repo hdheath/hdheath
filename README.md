@@ -32,17 +32,6 @@
   </a>
 </p>
 
----
-
-### 🧰 Tools & Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nextflow-000000?style=flat-square&logo=nextflow" />
-  <img src="https://img.shields.io/badge/-Snakemake-1E4C3B?style=flat-square&logo=snakemake&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
-</p>
 
 ---
 
