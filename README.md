@@ -1,19 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Harrison Heath</h1>
-<h3 align="center">A Data Research Analyst | Bioinformatician @ UC Davis Health</h3>
+<h1 align="center">Hi 👋, I'm Harrison Dean Heath</h1>
+<h3 align="center">Biomolecular Engineering & Bioinformatics PhD Student @ UC Santa Cruz</h3>
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/12/agifcolossaltd2opt.gif?fit=1&resize=600%2C4000&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hdheath&label=Profile%20views&color=0e75b6&style=flat" alt="hdheath" /> </p>
 
-- 🔭 I’m currently working on **Allele Specific Expression Analyses**
-
-- 👯 I’m looking to collaborate on **Anything Bioinformatics related**
-
-- 🤝 I’m looking for help with **Large Language Models for Structural Biology**
-
-- 💬 Ask me about **jupyter notebook, conda, python, and R for bioinformatics**
-
-- 📫 How to reach me **hdheath@ucdavis.edu**
+- 📫 How to reach me **hdheath@ucsc.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
