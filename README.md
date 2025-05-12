@@ -14,8 +14,8 @@
 ### 🧬 About Me
 
 - 🎓 **Ph.D. Student** @ UC Santa Cruz  
-- 🧠 Focused on **transcriptomics, RNA end detection, and functional genomics**  
-- 🧪 Experienced in **long-read RNA-seq, bioinformatics pipelines, and data visualization**  
+- 🧠 Focused on **transcriptomics**  
+- 🧪 Experienced in **long-read, short-read, and single-cell RNA-seq**  
 - 📈 Published work on **allele-specific expression** in equine transcriptomes  
 - 📍 Former bioinformatics junior specialist @ UC Davis
 
