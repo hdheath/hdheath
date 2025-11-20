@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Harrison Dean Heath</h1>
 <h3 align="center">Ph.D. Student in Biomolecular Engineering & Bioinformatics<br>@ University of California, Santa Cruz</h3>
 
 <p align="center">
@@ -9,19 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=hdheath&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
-
-### 🧬 About Me
-
-- 🎓 **Ph.D. Student** @ UC Santa Cruz  
-- 🧠 Focused on **transcriptomics**  
-- 🧪 Experienced in **long-read, short-read, and single-cell RNA-seq**  
-- 📈 Published work on **allele-specific expression** in equine transcriptomes  
-- 📍 Former bioinformatics junior specialist @ UC Davis
 
 ---
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/harrison-heath-9bba25198" target="_blank">
